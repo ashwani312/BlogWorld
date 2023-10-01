@@ -1,0 +1,11 @@
+.cats{
+    height: max-content;
+    width: 100vw;
+    display: flex;
+}
+.categories{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
