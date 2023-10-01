@@ -11,7 +11,7 @@
   "author": "Ashwani Dewangan",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^5.1.0",
+    "c": "^5.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.1.4",
     "express": "^4.18.2",
