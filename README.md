@@ -77,7 +77,8 @@ This Blogging Application is a full-stack web app developed using Node.js, Expre
 
 ## Screenshots
 
-(Insert screenshots or GIFs demonstrating the application's functionality and design here.)
+![blogworldscreenshot](https://github.com/ashwani312/BlogWorld/assets/105036643/abedac0c-2bbf-483b-991b-75b9d87129e6)
+
 
 ## Contributing
 
