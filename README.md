@@ -2,6 +2,10 @@
 
 This Blogging Application is a full-stack web app developed using Node.js, Express, Mongoose, and React. It allows users to write, delete, and categorize blog posts. The application also provides user authentication, allowing users to sign up and log in. Built with a focus on simplicity and functionality, it provides a seamless blogging experience for both readers and writers.
 
+## Screenshots
+
+![blogworld](https://github.com/ashwani312/BlogWorld/assets/105036643/c2dedb19-8aed-4fc4-a6f7-ebff61b59c25)
+
 ## Features
 
 - **User Authentication:** Users can sign up and log in securely to manage their blog posts.
@@ -74,11 +78,6 @@ This Blogging Application is a full-stack web app developed using Node.js, Expre
      ```
 
    Access the application in your browser at `http://localhost:3000`.
-
-## Screenshots
-
-![blogworld](https://github.com/ashwani312/BlogWorld/assets/105036643/c2dedb19-8aed-4fc4-a6f7-ebff61b59c25)
-
 
 
 ## Contributing
